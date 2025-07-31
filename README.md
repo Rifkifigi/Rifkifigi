@@ -11,7 +11,7 @@
 
 <img align="right" alt="Coding Cat" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-## 👨‍💻 About Me
+   👨‍💻 About Me
 
 - 🔭 Currently working on: **Course Tracker Web App**
 - 📚 Currently learning: `Next.js`, `TypeScript`, and `Firebase`
@@ -21,7 +21,7 @@
 
 ---
 
-## 📲 Connect with Me
+   📲 Connect with Me
 
 <p align="left">
   <a href="https://www.instagram.com/ipifigi_/" target="_blank">
@@ -37,7 +37,7 @@
 
 ---
 
-## 🧰 Tech Stack
+   🧰 Tech Stack
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
@@ -49,7 +49,7 @@
 
 ---
 
-## 📊 GitHub Stats
+   📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rifkifigi&show_icons=true&theme=radical" width="48%" />
@@ -58,7 +58,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+   🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Rifkifigi&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
@@ -66,21 +66,21 @@
 
 ---
 
-## 🧠 Random Dev Quote
+   🧠 Random Dev Quote
 
 > *"The best error message is the one that never shows up."*  
 > — Thomas Fuchs
 
 ---
 
-## 🧭 Currently Working On
+   🧭 Currently Working On
 
 - 🔨 [Course Tracker](https://github.com/Rifkifigi/course-tracker) — Fullstack learning tracker with CRUD + Firebase
 - 🌐 [Portfolio Website](https://github.com/Rifkifigi/portfolio-backend) — Backend API for my portfolio
 
 ---
 
-## 👀 Visitor Counter
+   👀 Visitor Counter
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Rifkifigi&label=Visitors&color=0e75b6&style=flat" alt="visitor badge" />
@@ -88,14 +88,14 @@
 
 ---
 
-## 💬 Quote to Live By
+   💬 Quote to Live By
 
 > *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
 > — **Martin Fowler**
 
 ---
 
-## 🧠 Bonus Tools
+   🧠 Bonus Tools
 
 > Generated using [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg), [GitHub Stats](https://github.com/anuraghazra/github-readme-stats), [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats), and [Shields.io](https://shields.io)
 
