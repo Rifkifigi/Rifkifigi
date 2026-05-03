@@ -77,6 +77,7 @@
 
 - 🔨 [Course Tracker](https://github.com/Rifkifigi/course-tracker) — Fullstack learning tracker with CRUD + Firebase
 - 🌐 [Portfolio Website](https://github.com/Rifkifigi/portfolio-backend) — Backend API for my portfolio
+- ✈️ [WanderAI](https://github.com/Rifkifigi/wonderai.git) — API Google AI Studio with Streamlit and Firebase
 
 ---
 
